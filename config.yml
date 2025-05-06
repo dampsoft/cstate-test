@@ -204,6 +204,7 @@ params:
   #
   # Hugo formatting docs:
   # https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference
+  # https://gohugo.io/functions/time/format/
   #
   # Technical: GOLANG/HUGO .Date.Format & dateFormat
   #
@@ -347,7 +348,7 @@ params:
   # Incident posts shown on homepage
   #
   # NUMERIC; Default: `5`
-  incidentPostsPerPage: 5
+  incidentPostsPerPage: 0
 
   # Enable custom CSS, JS, HTML
   #
