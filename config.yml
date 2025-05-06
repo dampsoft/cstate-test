@@ -185,7 +185,7 @@ params:
   #
   # Default: `true`
   # BOOLEAN; `true`, `false`
-  enableUptimeHistogram: true
+  enableUptimeHistogram: false
 
   # Monitor bot
   #
