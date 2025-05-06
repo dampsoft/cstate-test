@@ -209,8 +209,8 @@ params:
   #
   # dateFormat Default: "January 2, 2006 at 3:04 PM"
   # shortDateFormat Default: "15:04 — Jan 2"
-  dateFormat: 2.1.2006 - 15:04
-  shortDateFormat: 2.1 - 15:04
+  dateFormat: 02.01.2006 - 15:04
+  shortDateFormat: 02.01 - 15:04
   # Note: "at" is not translated with language codes, e.g.
   # for German, it would be "um", so change it if needed.
 
