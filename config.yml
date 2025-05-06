@@ -348,7 +348,7 @@ params:
   # Incident posts shown on homepage
   #
   # NUMERIC; Default: `5`
-  incidentPostsPerPage: 0
+  incidentPostsPerPage: 1
 
   # Enable custom CSS, JS, HTML
   #
