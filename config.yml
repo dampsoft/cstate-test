@@ -328,10 +328,11 @@ params:
   # Uncomment to enable.
   #
   # Format:
-  # customTabs:
-  #  -
-  #    name: Name
-  #    link: https://example.com
+  customTabs:
+    - name: Homepage
+      link: https://www.dampsoft.de/
+    - name: Impressum
+      link: https://www.dampsoft.de/impressum/
 
   # Disable complex server-side
   # calculations that may impact
